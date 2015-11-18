@@ -1,0 +1,6 @@
+{
+  "name": "jquery.tokeninput",
+  "version": "1.6.1",
+  "private": true,
+  "main": "./src/jquery.tokeninput.js"
+}
